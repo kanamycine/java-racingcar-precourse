@@ -51,6 +51,7 @@ public class Game {
 				winnerList.add(car.getCarName());
 			}
 		}
+
 		printWinner(winnerList);
 	}
 
